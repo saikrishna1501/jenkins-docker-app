@@ -4,6 +4,7 @@ pipeline {
         stage('build') {
     		sh 'echo "Hello world"'
     		//comment
+    		//comment
 		}
     }
 }
